@@ -7,7 +7,7 @@ title: DF/SI_Lab Sem 2 2024
 ### Using this site
 
 - Understand the [[Site/Overview|site and its challenges]]
-- Read [[Stakeholders/index|stakeholder personas]]
+- Read [[Stakeholders/Personas|stakeholder personas]]
 - Review summaries of key documents and other resources as needed
-- Understand [[Data/index|available data]]
+- Understand [[Data/Platforms|available data]]
 - Review more-than-human design precedents
