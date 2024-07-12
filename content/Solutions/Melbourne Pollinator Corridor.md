@@ -1,4 +1,11 @@
-#solution/type/concept #solution/status/existing #stakeholder/insect #stakeholder/plants 
+---
+title: "Melbourne Pollinator Corridor"
+tags:
+  - stakeholder/plants
+  - stakeholder/insect
+  - solution/type/concept
+  - solution/status/existing
+---
 
 ![[../attachments/melbourne-pollinator-corridor.jpg]]
 

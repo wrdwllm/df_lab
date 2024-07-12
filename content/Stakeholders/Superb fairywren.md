@@ -1,4 +1,11 @@
-#stakeholder/bird #todo/persona ![[../attachments/superb-fairy-wren.jpg]]
+---
+title: "Superb fairywren"
+tags:
+  - todo/persona
+  - stakeholder/bird
+---
+
+![[../attachments/superb-fairy-wren.jpg]]
 
 ### Information
 

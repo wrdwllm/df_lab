@@ -1,8 +1,13 @@
-#todo/summarise #resource/official 
+---
+title: "Urban Ecology Study"
+tags:
+  - resource/official
+  - todo/summarise
+---
 
 Urban ecology refers to the "interplay between people, nature, and the environment in urbanised areas." 
 
-The study provides design guidelines to achieve four key areas of the [[#Framework Goals|Framework goals]]:
+The study provides design guidelines to achieve four key areas of the [[ Goals|Framework goals]]:
 
 - Urban forest
 - Urban heat

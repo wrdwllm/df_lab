@@ -1,3 +1,6 @@
+---
+title: "Solution"
+---
 
 Images
 
@@ -9,6 +12,3 @@ Project by:
 #### Relevant Locations
 - Link to sites
 #### References
-
-
-
