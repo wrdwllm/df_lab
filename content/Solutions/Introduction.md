@@ -1,0 +1,1 @@
+This section contains designs for more-than-human habitats.
