@@ -1,6 +1,4 @@
-#todo/summarise
-#resource/official
-
+#todo/summarise #resource/official 
 
 Urban ecology refers to the "interplay between people, nature, and the environment in urbanised areas." 
 

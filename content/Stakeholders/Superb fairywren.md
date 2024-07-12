@@ -1,6 +1,4 @@
-#stakeholder/bird
-#todo/persona
-![[../attachments/superb-fairy-wren.jpg]]
+#stakeholder/bird #todo/persona ![[../attachments/superb-fairy-wren.jpg]]
 
 ### Information
 

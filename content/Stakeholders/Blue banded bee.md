@@ -1,6 +1,5 @@
 #stakeholder/insect 
-#todo/persona
-Image
+#todo/persona Image
 
 ### Information
 

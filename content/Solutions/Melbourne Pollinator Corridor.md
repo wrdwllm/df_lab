@@ -1,7 +1,4 @@
-#solution/type/concept
-#solution/status/existing
-#stakeholder/insect
-#stakeholder/plants
+#solution/type/concept #solution/status/existing #stakeholder/insect #stakeholder/plants 
 
 ![[../attachments/melbourne-pollinator-corridor.jpg]]
 
