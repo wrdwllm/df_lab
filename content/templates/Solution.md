@@ -1,5 +1,5 @@
 ---
-title: "Solution"
+title: "<% tp.file.title %>"
 ---
 
 Images

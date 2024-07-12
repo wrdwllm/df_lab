@@ -1,5 +1,5 @@
 ---
-title: "Stakeholder"
+title: "<% tp.file.title %>"
 ---
 
 Image

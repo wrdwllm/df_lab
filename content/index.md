@@ -1,9 +1,5 @@
 ---
-title: "index"
----
-
----
-title: DF/SI_Lab Sem 2 2024
+title: "DF_Lab 2024"
 ---
 
 ![[attachments/splash-page.png]]
