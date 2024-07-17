@@ -1,26 +1,28 @@
 ---
 title: "<% tp.file.title %>"
+tags:
+	-
+	-
 ---
 
 Image
 
-### Persona
-#### Information
+## Persona
+### Information
 - Shelter
 - Food
 - Habitat
 - Threat Mitigation
 - Potential for habitat/threat mitigation analogues
-#### Habitat requirements
+- Interactions
+### Habitat requirements
 
-#### Design implications
+### Design implications
 
-### Links
+### Related Solutions
 
-#### Typologies
+- Typologies
+- Solutions
 
-#### Sites
+## Site
 
-#### Other Stakeholders
-
-#### Solutions

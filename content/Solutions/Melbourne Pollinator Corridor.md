@@ -3,7 +3,7 @@ title: "Melbourne Pollinator Corridor"
 tags:
   - stakeholder/plants
   - stakeholder/insect
-  - solution/type/concept
+  - solution/type/urban-strategy
   - solution/status/existing
 ---
 
@@ -15,5 +15,9 @@ tags:
 
 [The Heart Gardening Project](https://theheartgardeningproject.org.au/)
 
-See also:
+#### Stakeholders
+- Link to stakeholders
+#### Relevant Typologies
+- Link to typologies
+#### References
 - [Streets Alive! Yarra](https://streets-alive-yarra.org/melbourne-pollinator-corridor/)

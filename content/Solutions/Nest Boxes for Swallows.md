@@ -2,8 +2,9 @@
 title: "Nest Boxes for Swallows"
 tags:
   - todo/description
-  - solution/type/prosthetic
+  - solution/type/artificial-habitat
   - solution/status/speculative
+  - solution/type/nest-box
 ---
 
 ![[../attachments/nest-boxes-for-swallows.png]]

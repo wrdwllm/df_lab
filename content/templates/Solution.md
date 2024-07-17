@@ -1,5 +1,8 @@
 ---
 title: "<% tp.file.title %>"
+tags:
+	-
+	-
 ---
 
 Images
@@ -9,6 +12,6 @@ Project by:
 > Brief description
 #### Stakeholders
 - Link to stakeholders
-#### Relevant Locations
-- Link to sites
+#### Relevant Typologies
+- Link to typologies
 #### References
