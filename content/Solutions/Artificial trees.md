@@ -1,9 +1,9 @@
 ---
 title: "Artificial trees"
-tags:
-	- solution/status/speculative
-	- solution/type/artificial-habitat
-	- todo/description
+tag:
+  - solution/status/speculative
+  - solution/type/artificial-habitat
+  - todo/description
 ---
 
 ![[../attachments/artificial-tree.avif]]
