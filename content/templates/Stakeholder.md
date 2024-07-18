@@ -6,23 +6,21 @@ tags:
 ---
 
 Image
+### Basic Information
 
-## Persona
-### Information
-- Shelter
-- Food
-- Habitat
-- Threat Mitigation
-- Potential for habitat/threat mitigation analogues
-- Interactions
+|               | Name (*Latin name*) |
+| ------------- | ------------------- |
+| Description   |                     |
+| Biology       |                     |
+| Habitat       |                     |
+| Native status |                     |
+| Diet          |                     |
+| Distribution  |                     |
+[Australian Living Atlas entry]()
 ### Habitat requirements
 
-### Design implications
-
 ### Related Solutions
-
 - Typologies
 - Solutions
-
-## Site
+- Sites
 

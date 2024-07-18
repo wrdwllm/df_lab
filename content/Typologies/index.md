@@ -1,5 +1,0 @@
----
-title: "Typologies"
----
-- Roofs
-- Columns

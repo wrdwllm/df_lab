@@ -4,7 +4,6 @@ tags:
   - todo/description
   - solution/type/artificial-habitat
   - solution/status/speculative
-  - solution/type/nest-box
 ---
 
 ![[../attachments/nest-boxes-for-swallows.png]]

@@ -1,9 +1,8 @@
 ---
 title: "Prosthetic Nests for the Powerful Owl"
 tags:
-  - solution/type/prosthetic
+  - solution/type/artificial-habitat
   - solution/status/existing
-  - solution/type/nest-box
 ---
 
 Images
