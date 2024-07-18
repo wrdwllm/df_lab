@@ -1,13 +1,13 @@
 ---
-title: "<% tp.file.title %>"
+title: "Wild-life bridges"
 tags:
-  -
-  -
+	-
+	-
 ---
 
 Images
 
-Project by:
+Project by: [Kylie Soanes](https://findanexpert.unimelb.edu.au/profile/176188-kylie-soanes)
 
 > Brief description
 #### Stakeholders

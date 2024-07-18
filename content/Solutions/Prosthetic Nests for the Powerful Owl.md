@@ -21,10 +21,16 @@ Powerful owls do not inhabit Fishermans Bend, but this approach is broadly appli
 #### Relevant Typologies
 Artificial hollows can be attached to [[../Typologies/Trees|Trees]] and analogue structures such as [[../Typologies/Power poles|Power poles]] and columns.
 
-Theoretically, these artificial hollows could be attached to any vertical surface, but in this case powerful owls will only occupy structures that are attached to trees. Generally, non-human animals also account for the structure of the surrounding environment when selecting a habitat.
-
+Theoretically, these artificial hollows could be attached to any vertical surface, but in this case powerful owls will only occupy structures that are attached to trees. 
 #### Related Solutions
 - The project [[Nest Boxes for Swallows]] takes a similar approach.
 - The project [[Artificial trees]] aims to replicate the structure and qualities of natural trees, which can also accommodate hollows.
 #### References
+Dan Parker, “Designing Custom Homes for Hollow-Dwelling Animals,” _Architect Victoria_, Design for All Life, 3 (2022): 48–51.
+
 Parker, Dan, Bronwyn Isaac, Kylie Soanes, Nick Bradsworth, Stanislav Roudavski, and Therésa Jones. “Urban Owls Are Losing Their Homes. So We’re 3D Printing Them New Ones.” The Conversation, 2020. [https://theconversation.com/urban-owls-are-losing-their-homes-so-were-3d-printing-them-new-ones-133626](https://theconversation.com/urban-owls-are-losing-their-homes-so-were-3d-printing-them-new-ones-133626).
+
+
+
+
+

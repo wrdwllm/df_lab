@@ -17,4 +17,4 @@ Speculative design by Nina Nervegna & Felix Garner-Davis^[1]
 #### Relevant Typologies
 - [[../Typologies/Power poles|Power poles]]
 
-[1]: Test
+[^1]: Test

@@ -20,13 +20,16 @@ Data for the City of Port Phillip council area and the State Government of Victo
 	- Interventions should target areas with established populations of target species.
 	- Occurrence sightings are a reasonable proxy of local species population and distribution.
 		- Available via [Atlas of Living Australia](https://www.ala.org.au/) and [Victorian Biodiversity Atlas](https://vba.biodiversity.vic.gov.au/vba/#/)
+	- The [Clean Air and Urban Landscapes Hub](https://nespurban.edu.au/platforms/threatened-species-map/) manage a dataset of observations of threatened species in urban areas.
 - Measures of local biodiversity
 	- Species richness is a standard measure of biodiversity for an area. Typically, these measures are not available at high resolutions.
-	- [CSIRO provides an Australia-wide dataset estimating species richness for birds, reptiles, and fung](https://data.csiro.au/collection/csiro:55986?_st=browse&_str=3&_si=1&browseType=kw&browseValue=species%20richness).
-	- The [[../Resources/Biodiversity Report|Biodiversity Report]] does not estimate species richness or biodiversity measures, but instead focuses on supporting existing target species.
-- Presence of colours in the environment
-	- Non-human species do not interpret their environment the same way as humans
+	- [CSIRO provides an Australia-wide dataset estimating species richness for birds, reptiles, and fungi](https://data.csiro.au/collection/csiro:55986?_st=browse&_str=3&_si=1&browseType=kw&browseValue=species%20richness).
+	- The [[../Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019)|Biodiversity Report]] does not estimate species richness or biodiversity measures, but instead focuses on supporting existing target species.
+- Presence of colours and other sensory data in the environment
+	- Non-human species do not interpret their environment the same way as humans. For example, many species [perceive a wider colour spectra](https://www.smithsonianmag.com/smart-news/see-the-world-through-the-eyes-of-animals-with-these-stunning-new-videos-180983647/) than humans.
+	- Some species associate particular colours with threats, prospective mates, or as a method of spotting each other. For example, a group of researchers argue that [[../Stakeholders/Superb fairywren|fairy-wrens]] have evolved plumage colouration that they can easily perceive but birds of prey cannot.[^1]
 - Exposure to pollution
+	- [Fishermans Bend groundwater studies 2015–2017](https://discover.data.vic.gov.au/dataset/fishermans-bend-groundwater-studies-2015-2017) assess the pollution of water bodies.
 - Exposure to noise and human activity, e.g., traffic, construction activity
 	- The majority of non-human species prefer habitats that are removed from busy pedestrian and transit corridors. 
 	- Transit corridors also pose a risk to species crossing them and disrupt habitat connectivity.
@@ -59,3 +62,7 @@ The [Atlas of Living Australia](https://www.ala.org.au/) contains occurrence rec
 The [Victorian Biodiversity Atlas](https://vba.biodiversity.vic.gov.au/vba/#/) also provides occurrence records for Victoria, but these are incorporated into ALA.
 
 [iNaturalist](https://www.inaturalist.org/) is a global citizen science database where users can upload geotagged images and sounds using a phone application that identifies the species automatically.
+
+[City Nature Challenge](https://www.citynaturechallenge.org/) is a global citizen science project where volunteers upload observations to iNaturalist. See the [outcomes for Greater Melbourne](https://inaturalist.ala.org.au/projects/city-nature-challenge-2024-greater-melbourne).
+
+[^1]: Anders Ödeen et al., “Multiple Shifts Between Violet and Ultraviolet Vision in a Family of Passerine Birds with Associated Changes in Plumage Coloration,” _Proceedings of the Royal Society B: Biological Sciences_ 279, no. 1732 (2012): 1269–76, [https://doi.org/10.1098/rspb.2011.1777](https://doi.org/10.1098/rspb.2011.1777).
