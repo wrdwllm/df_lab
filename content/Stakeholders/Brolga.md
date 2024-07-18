@@ -20,12 +20,16 @@ tags:
 
 [Australian Living Atlas entry](https://bie.ala.org.au/species/ALA_DR22912_792)
 ### Habitat requirements
+
+From the [[../Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019)]]:
+
 >- Large open wetland (saline or freshwater)
 >- Mudflats, grassy areas, low vegetation, or herbaceous vegetation
 >- Some distance (approx. 200m buffer) from human disturbance
->- Clean airspace (without [[../Typologies/Power poles|powerlines]])[^1]
+>- Clean airspace (without [[../Typologies/Power poles|powerlines]])
+
 ### Design implications
-> Large ephemeral wetland area on edge of development[^1]
+> Large ephemeral wetland area on edge of development.[^1]
 ### Related Solutions
 
 - Typologies

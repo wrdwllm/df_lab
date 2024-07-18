@@ -5,9 +5,7 @@ tags:
 ---
 
 Data for the City of Port Phillip council area and the State Government of Victoria will be the most relevant for Fishermans Bend.
-
-### Data relevant to non-human design
-
+## Data relevant to non-human design
 - Location of trees
 	- Important to identify shelter, habitats, and connectivity between green spaces.
 	- [Fishermans Bend Trees dataset](https://digitaltwin.vic.gov.au/portals/44/map/?share=f6b495e2-b1d8-4df3-98d7-b821e2965a5c)
@@ -35,15 +33,12 @@ Data for the City of Port Phillip council area and the State Government of Victo
 	- Transit corridors also pose a risk to species crossing them and disrupt habitat connectivity.
 	- Proximity to traffic corridors are a reasonable predictor, but local governments increasingly provide sensor data about traffic speed and volume
 		- [City of Port Philip transport data for bikes, pedestrians, and traffic](https://www.data.gov.au/data/dataset/transport)
-
-### Data about non-human species
-
-#### Sightings and information
+## Data about non-human species
 
 - Atlas of Living Australia contains geolocated occurence records and species information.
 - iNaturalist provides crowd sourced images, identification, and audio files for species globally.
 
-### Platforms
+## Platforms
 
 3D buildings and topography are available for Fishermans Bend and Port Melbourne via the[ Digital Twin Victoria platform](https://digitaltwin.vic.gov.au/).
 
@@ -64,5 +59,18 @@ The [Victorian Biodiversity Atlas](https://vba.biodiversity.vic.gov.au/vba/#/) a
 [iNaturalist](https://www.inaturalist.org/) is a global citizen science database where users can upload geotagged images and sounds using a phone application that identifies the species automatically.
 
 [City Nature Challenge](https://www.citynaturechallenge.org/) is a global citizen science project where volunteers upload observations to iNaturalist. See the [outcomes for Greater Melbourne](https://inaturalist.ala.org.au/projects/city-nature-challenge-2024-greater-melbourne).
+## Types of data
+- 3D scans: documents the structure of physical reality, e.g., LIDAR, STL, point clouds.
+- Geospatial data: describes and position objects in physical space in relation to a coordinate system, e.g., cadastral maps, location of trees, transit networks, animal sightings, etc.
+	- OpenStreetMap
+	- Digital Twin Victoria
+	- Australian Living Atlas
+- Sensor data: in situ measurements of values using sensors, e.g., noise levels, light levels, movement tracking.
+	- Arduino sensors
+	- Specialist equipment, e.g., light meters
+	- Consumer monitoring devices like cameras
+- Statistical values: estimates for a specific geographical region based on an average of observations, e.g., a local government area or Federal electorate; useful for design and planning, but not always accurate. For example, solar exposure, rainfall, average number of cars per person.
+	- AURIN
+	- Australian Bureau of Statistics
 
 [^1]: Anders Ödeen et al., “Multiple Shifts Between Violet and Ultraviolet Vision in a Family of Passerine Birds with Associated Changes in Plumage Coloration,” _Proceedings of the Royal Society B: Biological Sciences_ 279, no. 1732 (2012): 1269–76, [https://doi.org/10.1098/rspb.2011.1777](https://doi.org/10.1098/rspb.2011.1777).
