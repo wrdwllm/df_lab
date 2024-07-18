@@ -9,7 +9,8 @@ tags:
 Data that documents the structure of physical reality, e.g., LIDAR, STL, point clouds.
 
 Sources include:
-	- 
+- Bespoke scans
+- [[Platforms#Digital Twin Victoria]]
 
 #### Geospatial data
 
