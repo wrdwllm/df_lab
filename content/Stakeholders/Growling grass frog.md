@@ -1,7 +1,7 @@
 ---
 title: Growling grass frog
 tags:
-  - stakeholder/reptile
+  - stakeholder/amphibian
 ---
 
 ![[../attachments/growling-grass-frog.jpg]]
@@ -19,20 +19,21 @@ tags:
 
 [Australian Living Atlas entry](https://bie.ala.org.au/species/https://biodiversity.org.au/afd/taxa/89a7a289-bf04-40e0-aaef-7ec6bc968a9c)
 ### Habitat requirements
+From the report:
 > - Ponds or creeks with slow-flowing fresh water
 > - Grassy/weedy/reedy edges and vegetation patches within water
 > - Safe connection to [[../Sites/Westgate Park|Westgate Park]]
 > - Sunny areas within the waterbody[^2]
 ### Design requirements
+From the report:
 >- Some permanent and ephemeral freshwater
 >- Aquatic vegetation: low (<50cm high) vegetation around water
 >- Sunny road underpasses
 
->The probability of the species persisting on sites and recolonising vacant wetlands is strongly
-positively related to connectivity.[^2]
+>The probability of the species persisting on sites and recolonising vacant wetlands is strongly positively related to connectivity.[^2]
 
 ### Solutions
-- [[../Solutions/Road underpasses|Road underpasses]]
+- [[../Solutions/Animal underpasses|Animal underpasses]] to provide safe access to [[../Sites/Westgate Park|Westgate Park]]
 
 [^1]: Alternative vernacular name
 [^2]: [[../Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019)]]

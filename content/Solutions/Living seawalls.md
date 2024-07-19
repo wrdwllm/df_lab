@@ -1,9 +1,8 @@
 ---
 title: "Living seawalls"
 tags:
-  - solution/type/artificial-habitat
+  - solution/artificial-habitat
   - stakeholder/marine
-  - solution/status/existing
 ---
 
 Images

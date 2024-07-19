@@ -4,19 +4,41 @@ tags:
   - resources
   - sites/fishermans-bend
 ---
-### Official Reports
+## Official Reports
 
-#### Fishermans Bend Urban Ecology Strategy: Biodiversity Report (2019)
+### Fishermans Bend Urban Ecology Strategy: Biodiversity Report (2019)
+This report was prepared by [ICON Science](https://icon-science.org/) in 2018 to inform the urban ecology strategy for the precinct. Urban ecology refers to the "interplay between people, nature, and the environment in urbanised areas."
+#### Objectives
+Specifically, the report recommends planning strategies to create biodiverse precincts in Fishermans Bend. They identified seven objectives these precincts should achieve:
 
-- Report prepared by [ICON Science](https://icon-science.org/)
-- Draws heavily on principles of [[Other resources#Biodiversity Sensitive Urban Design (BSUD)|Biodiversity Sensitive Urban Design (BSUD)]] concept in its recommendations for the precinct.
+>1. A place that honours Indigenous culture
+>2. A place with seven seasons
+>3. A place known by its diverse ecosystems
+>4. A place for the senses
+>5. A place of shifting waters
+>6. A place that's comfortable and beautiful in any weather
 
-#### Fishermans Bend Framework (2018)
+They identify seven "target" species whose return or persistence in the precinct would indicate these objectives were achieved. 
+
+1. [[../Stakeholders/Superb fairywren|Superb fairywren]] (*Malarus cyaneus*)
+2. [[../Stakeholders/Blue banded bee|Blue banded bee]] (*Amegilla sp.*)
+3. [[../Stakeholders/Growling grass frog]] (*Litoria raniformis*)
+4. [[../Stakeholders/Brolga|Brolga]] (*Grus rubicunda*)
+5. [[Fungi]] (various species)
+6. [[../Stakeholders/Blue-tongue Lizard|Blue-tongue Lizard]] (*Tiliqua scinoides*)
+7. [[../Stakeholders/White mangroves|White mangroves]] (*Avicennia marina*)
+#### Recommendations
+
+The authors use the principles of [[Other resources#Biodiversity Sensitive Urban Design (BSUD)|Biodiversity Sensitive Urban Design (BSUD)]] to arrive at their recommendations.
+
+The report
+
+### Fishermans Bend Framework (2018)
 
 - Framework Goals
-#### Urban Ecology Study (2020)
+### Urban Ecology Study (2020)
 
-Urban ecology refers to the "interplay between people, nature, and the environment in urbanised areas."
+
 
 The study provides design guidelines to achieve four key areas of the Framework goals.
 

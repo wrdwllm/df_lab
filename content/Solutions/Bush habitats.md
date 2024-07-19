@@ -1,8 +1,8 @@
 ---
 title: "Bush habitats"
 tags:
-  - solution/type/existing
-  - solution/type/artificial-habitat
+  - solution/existing
+  - solution/artificial-habitat
 ---
 
 ![[../attachments/bush-habitat-diagram.jpg]]

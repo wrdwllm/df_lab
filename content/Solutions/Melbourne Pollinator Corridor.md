@@ -1,10 +1,9 @@
 ---
 title: "Melbourne Pollinator Corridor"
 tags:
-  - stakeholder/plants
+  - stakeholder/plant
   - stakeholder/insect
-  - solution/type/urban-strategy
-  - solution/status/existing
+  - solution/urban-strategy
 ---
 
 ![[../attachments/melbourne-pollinator-corridor.jpg]]

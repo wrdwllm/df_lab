@@ -1,12 +1,12 @@
 ---
-title: "<% tp.file.title %>"
+title: "Fungi"
 tags:
   -
   -
 ---
 
 Image
-## Basic Information
+### Basic Information
 
 |               | Name (*Latin name*) |
 | ------------- | ------------------- |
@@ -17,9 +17,9 @@ Image
 | Diet          |                     |
 | Distribution  |                     |
 [Australian Living Atlas entry]()
-## Habitat requirements
+### Habitat requirements
 
-## Related Solutions
+### Related Solutions
 - Typologies
 - Solutions
 - Sites

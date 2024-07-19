@@ -1,8 +1,7 @@
 ---
 title: "Artificial trees"
 tag:
-  - solution/status/speculative
-  - solution/type/artificial-habitat
+  - solution/artificial-habitat
   - todo/description
 ---
 

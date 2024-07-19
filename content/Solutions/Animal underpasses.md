@@ -1,8 +1,7 @@
 ---
-title: "Road underpasses"
+title: "Animal underpasses"
 tags:
-  - solution/type/connectivity
-  - solution/status/existing
+  - solution/connectivity
   - todo/placeholder
 ---
 

@@ -1,7 +1,14 @@
 ---
 title: "Fishermans Bend Campus"
 tags:
-  - sites
+  - site/future
 ---
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1611.7397945346552!2d144.91679444930907!3d-37.827036641638095!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sau!4v1721292270784!5m2!1sen!2sau" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=144.91150259971621%2C-37.827565132003166%2C144.92395877838138%2C-37.818454719788654&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=17/-37.82301/144.91773">View Larger Map</a></small>
+
+>Planned to open in 2026, Stage 1 of the campus will be a super hub for innovation purpose-built for the Faculty of Engineering and Information Technology (FEIT) and the Faculty of Architecture, Building and Planning (ABP), with space for industry to co-locate.
+
+[Fishermans Bend Campus](https://about.unimelb.edu.au/priorities-and-partnerships/campus-development/fishermans-bend)
+
+<a href="https://about.unimelb.edu.au/priorities-and-partnerships/campus-development/fishermans-bend">![[../attachments/fishermans-bend-campus.jpg]]</a>
+

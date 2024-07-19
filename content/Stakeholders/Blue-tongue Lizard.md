@@ -1,7 +1,7 @@
 ---
-title: "<% tp.file.title %>"
+title: "Blue-tongue Lizard"
 tags:
-  -
+  - stakeholder/reptile
   -
 ---
 
@@ -20,7 +20,5 @@ Image
 ## Habitat requirements
 
 ## Related Solutions
-- Typologies
-- Solutions
-- Sites
+[[../Solutions/Artificial rocks|Artificial rocks]]
 

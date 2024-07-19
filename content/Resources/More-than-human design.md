@@ -1,5 +1,5 @@
 ---
-title: "Non-human design"
+title: "More-than-human design"
 tags:
   - resources
 ---
