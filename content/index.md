@@ -1,3 +1,7 @@
+---
+title: "Fishermans Bend Design Atlas"
+---
+
 ## Using this site as a design resource
 1. [[Design considerations]]: understand the general design principles for designing with and for non-human species.
 2. [[Fishermans Bend]]: understand the history, current status, and challenges of Fishermans Bend.
