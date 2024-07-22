@@ -1,7 +1,7 @@
 ---
 title: "Living seawalls"
 tags:
-  - solution/artificial-habitat
+  - example/artificial-habitat
   - stakeholder/marine
 ---
 

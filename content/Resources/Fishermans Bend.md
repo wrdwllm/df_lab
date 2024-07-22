@@ -56,6 +56,6 @@ The study provides design guidelines to achieve four key areas of the Framework 
 ### Local Organisations
 
 - [Melbourne Pollinator Corridor Handbook](https://theheartgardeningproject.org.au/shop/p/melbourne-pollinator-corridor-handbook)
-	- See also: [[../Solutions/Melbourne Pollinator Corridor|Melbourne Pollinator Corridor]], [[../Stakeholders/The Heart Gardening Project|The Heart Gardening Project]]
+	- See also: [[../Examples/Melbourne Pollinator Corridor|Melbourne Pollinator Corridor]], [[../Stakeholders/The Heart Gardening Project|The Heart Gardening Project]]
 
 

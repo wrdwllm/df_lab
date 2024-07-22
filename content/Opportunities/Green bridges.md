@@ -1,8 +1,8 @@
 ---
 title: "Green bridges"
 tags:
-  - solution/infrastructure
-  - solution/biodiversity-report
+  - example/infrastructure
+  - example/biodiversity-report
 ---
 
 Images

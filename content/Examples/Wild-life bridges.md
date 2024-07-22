@@ -1,18 +1,20 @@
 ---
 title: "Wild-life bridges"
 tags:
-  - solution/connectivity
-  - solution/concept
+  - example/connectivity
   - todo/placeholder
 ---
 
-Images
-
+## Overview
 Project by: [Kylie Soanes](https://findanexpert.unimelb.edu.au/profile/176188-kylie-soanes)
 
+Image
+
 > Brief description
-#### Stakeholders
-- Link to stakeholders
-#### Relevant Typologies
-- Link to typologies
-#### References
+
+[Link]()
+
+This project is relevant for
+## References
+
+[^1]:

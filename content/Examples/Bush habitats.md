@@ -1,7 +1,7 @@
 ---
 title: "Bush habitats"
 tags:
-  - solution/artificial-habitat
+  - example/artificial-habitat
 ---
 
 ![[../attachments/bush-habitat-diagram.jpg]]

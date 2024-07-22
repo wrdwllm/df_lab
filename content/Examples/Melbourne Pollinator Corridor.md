@@ -3,7 +3,7 @@ title: "Melbourne Pollinator Corridor"
 tags:
   - stakeholder/plant
   - stakeholder/insect
-  - solution/urban-strategy
+  - example/urban-strategy
 ---
 
 ![[../attachments/melbourne-pollinator-corridor.jpg]]

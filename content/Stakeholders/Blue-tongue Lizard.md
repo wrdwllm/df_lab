@@ -20,5 +20,5 @@ Image
 ## Habitat requirements
 
 ## Related Solutions
-[[../Solutions/Artificial rocks|Artificial rocks]]
+[[../Examples/Artificial rocks|Artificial rocks]]
 
