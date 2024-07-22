@@ -8,6 +8,8 @@ tags:
 
 ### Fishermans Bend Urban Ecology Strategy: Biodiversity Report (2019)
 This report was prepared by [ICON Science](https://icon-science.org/) in 2018 to inform the urban ecology strategy for the precinct. Urban ecology refers to the "interplay between people, nature, and the environment in urbanised areas."
+
+[Download the report here](https://www.fishermansbend.vic.gov.au/__data/assets/pdf_file/0038/185996/FB_BiodiversityReport_ICONScience_FINAL.pdf).
 #### Objectives
 Specifically, the report recommends planning strategies to create biodiverse precincts in Fishermans Bend. They identified seven objectives these precincts should achieve:
 

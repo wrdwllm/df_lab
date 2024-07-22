@@ -9,7 +9,3 @@ tags:
 
 ## Site information
 - Adjacent to [[Westgate Park]] and [[Fishermans Bend Innovation Precinct]]
-## Future
-- [[../Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019)|Biodiversity Report]] recommends linking to an adjacent park beneath Todd Rd via an [[../Solutions/Animal underpasses|animal underpass]] to provide safe access for fauna including [[../Stakeholders/Growling grass frog|Growling grass frog]]
-
-![[../attachments/report-strategy-go-kart-site.png]]

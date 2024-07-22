@@ -3,6 +3,8 @@ title: "Artificial rocks"
 tags:
   - todo/solution
   - solution/artificial-habitat
+  - solution/biodiversity-report
+  - solution/concept
 ---
 
 Images

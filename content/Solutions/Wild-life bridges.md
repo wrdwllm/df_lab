@@ -2,6 +2,7 @@
 title: "Wild-life bridges"
 tags:
   - solution/connectivity
+  - solution/concept
   - todo/placeholder
 ---
 

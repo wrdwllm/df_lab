@@ -1,7 +1,6 @@
 ---
 title: "Bush habitats"
 tags:
-  - solution/existing
   - solution/artificial-habitat
 ---
 

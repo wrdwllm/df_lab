@@ -8,6 +8,7 @@ This page provides general principles for designing with and for non-human speci
 ## Using this resource for design
 
 - Read about [[Stakeholders]].
+- 
 ## General principles
 
 Humans and the majority of non-human animals invariably need "consumable resources such as food and water, shelter for refuge or nesting, and safe ways to move between things." Urbanisation threatens all these needs.

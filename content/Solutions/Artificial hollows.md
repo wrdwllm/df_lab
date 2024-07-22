@@ -1,11 +1,15 @@
 ---
-title: "<% tp.file.title %>"
+title: "Artificial hollows"
 tags:
   -
   -
 ---
 
 ## Example Project
+
+![[Prosthetic nests for the Powerful Owl]]
+
+![[Nest Boxes for Swallows]]
 Project by:
 
 Image
