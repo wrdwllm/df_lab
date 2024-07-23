@@ -4,7 +4,6 @@ tags:
   - stakeholder/plant
   - stakeholder/insect
   - example/urban-strategy
-draft: true
 ---
 
 ## Overview

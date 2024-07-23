@@ -17,9 +17,7 @@ draft: false
 | Native status | Native to Australia                                                                                                                                                                                                                                                                                                                  |
 | Distribution  | In Australia it occurs in every mainland state and extends much farther south than other mangroves, with its southern most limit at Corner Inlet near Wilson's Promontory in Victoria. Also present along Africa's east coast, south-west, south, and south-east Asia, northern New Zealand, coastal Arabian Peninsula, and Somalia. |
 
-[[CC-BY-SA)](CC-BY-SA|Wikipedia (CC-BY-SA)]])
-
-See also: [Atlas of Living Australia entry](https://bie.ala.org.au/species/https://id.biodiversity.org.au/node/apni/2899921)
+[Atlas of Living Australia entry](https://bie.ala.org.au/species/https://id.biodiversity.org.au/node/apni/2899921)
 ## Habitat requirements[^1]
 - Clean, saltwater and freshwater, saline mudflats
 - Tidal zone allowing for both full inundation and air exposure
@@ -29,4 +27,4 @@ See also: [Atlas of Living Australia entry](https://bie.ala.org.au/species/https
 - Boat ramps or jetties to protect from disturbance by vehicles
 - Provision of boardwalks for human access
 
-[[Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019]]) pg. 43
+[[Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019]] pg. 43
