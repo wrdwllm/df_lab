@@ -3,6 +3,9 @@ title: Bee hotel
 tags:
   - stakeholder/insect
   - example/artificial-habitat
+  - example/artificial-hollow
+  - todo
+draft: true
 ---
 ## Overview
 Project by:

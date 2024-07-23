@@ -1,7 +1,6 @@
 ---
 title: Blue banded bee
 tags:
-  - todo/persona
   - stakeholder/insect
 ---
 ![[../attachments/stakeholder_blue-banded-bee.jpg]]
@@ -17,7 +16,7 @@ tags:
 | Diet              | Herbivore                                                                                                                                                                                                                                   |
 | Distribution      | Mainland Australia                                                                                                                                                                                                                          |
 
-[Australian Living Atlas entry for *Amegilla* genus](https://bie.ala.org.au/species/https://biodiversity.org.au/afd/taxa/b90f81e6-2bbc-4216-a4d5-0ad81c040545)
+[Atlas of Living Australia entry for *Amegilla* genus](https://bie.ala.org.au/species/https://biodiversity.org.au/afd/taxa/b90f81e6-2bbc-4216-a4d5-0ad81c040545)
 ## Habitat requirements
 
 >- Diverse mid-storey flowering plants (with some blue flowers ideally, including native Dianella sp.)
@@ -27,8 +26,6 @@ tags:
 ## Design requirements
 
 > Open garden beds planted with flowering plants (50-100cm height).[^2]
-
-
 
 [^1]: sp. is short for *species proxima* meaning "the nearest species"
 [^2]: [[../Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019)]] pg. 42

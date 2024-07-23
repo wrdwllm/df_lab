@@ -3,7 +3,7 @@ title: "Fishermans Bend Design Atlas"
 ---
 
 ## Using this site as a design resource
-1. [[Design considerations]]: understand the general design principles for designing with and for non-human species.
+1. [[Design/Design goals and actions]]: understand the general design principles for designing with and for non-human species.
 2. [[Fishermans Bend]]: understand the history, current status, and challenges of Fishermans Bend.
 3. [[Opportunities]]: read about the recommendations made by [ICON Science](https://icon-science.org/) and the design opportunities they provide
 4. [[Stakeholders]]: read about the seven target species that [ has identified as important to the area.
@@ -29,7 +29,7 @@ title: "Fishermans Bend Design Atlas"
 
 [[Sites]] contains pages that describe locations of interest in Fishermans Bend, [[Fishermans Bend|the current State Government initiative to develop the area]], and a [[Sites/History|brief overview of its Indigenous and colonial history]].
 
-[[Typologies]] is an index of common typologies found in Fishermans Bend, e.g., [[Typologies/Power poles|Power poles]] and [[Typologies/Trees|Trees]].
+[[Typologies]] is an index of common typologies found in Fishermans Bend, e.g., [[Typologies/Power poles|Power poles]] and [[Typologies/Trees|Trees]]. Pages contain some information but exist mainly to connect other pages.
 
 
 

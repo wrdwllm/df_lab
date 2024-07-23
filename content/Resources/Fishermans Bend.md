@@ -22,12 +22,12 @@ Specifically, the report recommends planning strategies to create biodiverse pre
 
 They identify seven "target" species whose return or persistence in the precinct would indicate these objectives were achieved. 
 
-1. [[../Stakeholders/Superb fairywren|Superb fairywren]] (*Malarus cyaneus*)
+1. [[../Stakeholders/Superb fairy-wren|Superb fairy-wren]] (*Malarus cyaneus*)
 2. [[../Stakeholders/Blue banded bee|Blue banded bee]] (*Amegilla sp.*)
 3. [[../Stakeholders/Growling grass frog]] (*Litoria raniformis*)
 4. [[../Stakeholders/Brolga|Brolga]] (*Grus rubicunda*)
 5. [[Fungi]] (various species)
-6. [[../Stakeholders/Blue-tongue Lizard|Blue-tongue Lizard]] (*Tiliqua scinoides*)
+6. [[../Stakeholders/Blue-tongue lizard|Blue-tongue lizard]] (*Tiliqua scinoides*)
 7. [[../Stakeholders/White mangroves|White mangroves]] (*Avicennia marina*)
 #### Recommendations
 

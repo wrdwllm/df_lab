@@ -1,8 +1,8 @@
 ---
 title: "Crimson rosella"
 tags:
-  - todo/persona
   - stakeholder/bird
+draft: true
 ---
 
 Image

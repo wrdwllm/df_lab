@@ -1,7 +1,7 @@
 ---
 title: "Intelligent lighting network"
 tags:
-  - opportunity/eco-street-lighting
+  - example/infrastructue
   - stakeholder/nocturnal
 ---
 ## Overview

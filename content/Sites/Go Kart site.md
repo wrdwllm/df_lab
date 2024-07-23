@@ -9,3 +9,10 @@ tags:
 
 ## Site information
 - Adjacent to [[Westgate Park]] and [[Fishermans Bend Innovation Precinct]]
+## Future
+
+The [[../Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019)|Biodiversity Report]] recommends converting the Go Kart site to a new park and linking to [[../Sites/Westgate Park|Westgate Park]] beneath Todd Rd via an animal underpass to provide safe access for fauna.[^1]
+
+![[../attachments/report-strategy-go-kart-site.png|500]]
+
+[^1]: pg. 29

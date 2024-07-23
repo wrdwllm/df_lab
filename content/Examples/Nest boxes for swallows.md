@@ -1,10 +1,12 @@
 ---
 title: "Nest Boxes for Swallows"
 tags:
-  - todo/description
-  - example/nest
+  - todo
+  - example/artificial-hollow
+  - example/artificial-habitat
+  - opportunity/habitat-analogue
   - stakeholder/bird
-  - opportunity/artificial-hollow
+draft: true
 ---
 
 ## Description

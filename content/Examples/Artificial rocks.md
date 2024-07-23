@@ -1,10 +1,11 @@
 ---
 title: "Artificial rocks"
 tags:
-  - todo/solution
+  - todo
   - example/artificial-habitat
   - example/biodiversity-report
   - example/concept
+draft: true
 ---
 
 Images

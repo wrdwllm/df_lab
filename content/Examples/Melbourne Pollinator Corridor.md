@@ -4,6 +4,7 @@ tags:
   - stakeholder/plant
   - stakeholder/insect
   - example/urban-strategy
+draft: true
 ---
 
 ![[../attachments/melbourne-pollinator-corridor.jpg]]

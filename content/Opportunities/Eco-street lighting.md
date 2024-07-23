@@ -3,6 +3,8 @@ title: "Eco-street lighting"
 tags:
   - example/infrastructure
   - stakeholder/nocturnal
+  - todo
+draft: true
 ---
 
 The [[../Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019)|Biodiversity Report]] recommends:
@@ -22,8 +24,8 @@ The [[../Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiv
 
 ## Stakeholders
 - [[../Stakeholders/Growling grass frog|Growling grass frog]]
-- [[../Stakeholders/Blue-tongue Lizard|Blue-tongue Lizard]]
-- [[../Stakeholders/Superb fairywren|Superb fairywren]]
+- [[../Stakeholders/Blue-tongue lizard|Blue-tongue lizard]]
+- [[../Stakeholders/Superb fairy-wren|Superb fairy-wren]]
 - [[../Stakeholders/Blue banded bee|Blue banded bee]]
 
 ## References

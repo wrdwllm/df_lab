@@ -25,7 +25,7 @@ Data for the City of Port Phillip council area and the State Government of Victo
 	- The [[../Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019)|Biodiversity Report]] does not estimate species richness or biodiversity measures, but instead focuses on supporting existing target species.
 - Presence of colours and other sensory data in the environment
 	- Non-human species do not interpret their environment the same way as humans. For example, many species [perceive a wider colour spectra](https://www.smithsonianmag.com/smart-news/see-the-world-through-the-eyes-of-animals-with-these-stunning-new-videos-180983647/) than humans.
-	- Some species associate particular colours with threats, prospective mates, or as a method of spotting each other. For example, a group of researchers argue that [[../Stakeholders/Superb fairywren|fairy-wrens]] have evolved plumage colouration that they can easily perceive but birds of prey cannot.[^1]
+	- Some species associate particular colours with threats, prospective mates, or as a method of spotting each other. For example, a group of researchers argue that [[../Stakeholders/Superb fairy-wren|fairy-wrens]] have evolved plumage colouration that they can easily perceive but birds of prey cannot.[^1]
 - Exposure to pollution
 	- [Fishermans Bend groundwater studies 2015–2017](https://discover.data.vic.gov.au/dataset/fishermans-bend-groundwater-studies-2015-2017) assess the pollution of water bodies.
 - Exposure to noise and human activity, e.g., traffic, construction activity
@@ -52,7 +52,7 @@ Other datasets relating to Fishermans Bend are available on the [data.gov.au pla
 
 [CSIRO](https://data.csiro.au) provides open-access geospatial data sets about biodiversity, ecology, and ecosystems. These are often for specific locations and research projects.
 
-The [Atlas of Living Australia](https://www.ala.org.au/) contains occurrence records for 5,820 species. For example, you can search for the [[../Stakeholders/Superb fairywren|Superb fairywren]] to access a [dataset of sightings](https://bie.ala.org.au/species/https://biodiversity.org.au/afd/taxa/ae56080e-4e73-457d-93a1-0be6a1d50f34) and information about the species.
+The [Atlas of Living Australia](https://www.ala.org.au/) contains occurrence records for 5,820 species. For example, you can search for the [[../Stakeholders/Superb fairy-wren|Superb fairy-wren]] to access a [dataset of sightings](https://bie.ala.org.au/species/https://biodiversity.org.au/afd/taxa/ae56080e-4e73-457d-93a1-0be6a1d50f34) and information about the species.
 
 The [Victorian Biodiversity Atlas](https://vba.biodiversity.vic.gov.au/vba/#/) also provides occurrence records for Victoria, but these are incorporated into ALA.
 
@@ -64,7 +64,7 @@ The [Victorian Biodiversity Atlas](https://vba.biodiversity.vic.gov.au/vba/#/) a
 - Geospatial data: describes and position objects in physical space in relation to a coordinate system, e.g., cadastral maps, location of trees, transit networks, animal sightings, etc.
 	- OpenStreetMap
 	- Digital Twin Victoria
-	- Australian Living Atlas
+	- Atlas of Living Australia
 - Sensor data: in situ measurements of values using sensors, e.g., noise levels, light levels, movement tracking.
 	- Arduino sensors
 	- Specialist equipment, e.g., light meters

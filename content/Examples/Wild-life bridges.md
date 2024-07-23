@@ -2,7 +2,8 @@
 title: "Wild-life bridges"
 tags:
   - example/connectivity
-  - todo/placeholder
+  - todo
+draft: true
 ---
 
 ## Overview

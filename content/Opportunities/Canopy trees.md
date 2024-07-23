@@ -1,5 +1,4 @@
 ---
-title: Artificial trees
 tag: 
   - opportunity
 ---
@@ -9,28 +8,31 @@ The [[../Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiv
 - "novel habitat analogues" including "artificial cavities in buildings".[^2]
 
 While the authors do not explicitly recommend artificial trees, they could provide habitat analogues to supplement traditional tree and understorey planting.
-## Stakeholders
-Street trees
-- [[../Stakeholders/Superb fairywren|Superb fairywren]]
-- [[../Stakeholders/Blue-tongue Lizard|Blue-tongue Lizard]]
-
-Trees in parks and gardens
-- [[../Stakeholders/Superb fairywren|Superb fairywren]]
-- [[../Stakeholders/Blue-tongue Lizard|Blue-tongue Lizard]]
-- [[../Stakeholders/Fungi|Fungi]]
 ## Opportunities
 
-Consider in tandem with [[../Design considerations|design considerations]] and needs of individual stakeholders.
+Consider in tandem with [[../Design/Design goals and actions|design considerations]] and needs of individual stakeholders.
 - Provide new hollows in combination with [[#Artificial hollows]] for [[tags/stakeholder/bird|birds]] like [[../Examples/Nest boxes for swallows]] or [[../Examples/Prosthetic nests for the Powerful Owl]].
 - Designs for artificial trees could integrate [[Eco-street lighting]].
 - Can be adapted to augment [[../Typologies/Power poles|power poles]] and [[../Typologies/Columns|columns]]
 - Possible habitat analogue for [[../Typologies/Trees|trees]] but cannot replace canopy coverage.
+- Combine with [[../Examples/Wild-life bridges|Wild-life bridges]], existing types ([[../Typologies/Power poles|power poles]], [[../Typologies/Buildings|buildings]], [[../Typologies/Trees|trees]]), and [[Habitat analogues]] to provide connectivity above traffic corridors.
+- Provide similar ecosystem services as [[../Stakeholders/White mangroves|White mangroves]]
 
 Artificial trees alone cannot provide the same canopy coverage and habitat complexity as natural trees. The report also recommends that:
 
 >"All canopy trees should be predominantly native providing a mixture of vegetation structures (low & high canopy) and services (flowers, hollows, dense foliage)."[^1]
 ## Examples
+
+This example uses data-driven analysis of the perching preferences of birds to re-produce the complex structures of large old trees using perch analogues attached to a central pylon.
 ![[../Examples/Artificial trees#Overview|Artificial trees]]
+## Stakeholders
+Street trees
+- [[../Stakeholders/Superb fairy-wren|Superb fairy-wren]]
+- [[../Stakeholders/Blue-tongue lizard|Blue-tongue lizard]]
+- [[../Stakeholders/Fungi|Fungi]]
+ 
+ Could provide similar services as:
+ - [[../Stakeholders/White mangroves|White mangroves]] 
 ## References
 
 Garrard, Georgia E., Nicholas S. G. Williams, Luis Mata, Jordan Thomas, and Sarah A. Bekessy. “Biodiversity Sensitive Urban Design.” _Conservation Letters_ 11, no. 2 (2018): e12411. [https://doi.org/10/gfsqmw](https://doi.org/10/gfsqmw).

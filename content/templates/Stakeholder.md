@@ -16,11 +16,10 @@ Image
 | Native status |                     |
 | Diet          |                     |
 | Distribution  |                     |
-[Australian Living Atlas entry]()
-## Habitat requirements
+[Atlas of Living Australia entry]()
+## Habitat requirements[^1]
 
-## Related Solutions
-- Typologies
-- Solutions
-- Sites
+## Design requirements[^1]
+
+[^1]:[[../Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019)]]
 

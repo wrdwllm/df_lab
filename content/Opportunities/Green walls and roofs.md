@@ -2,6 +2,7 @@
 title: "Green roofs"
 tags:
  -
+draft: true
 ---
 
 The [[../Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019)|Biodiversity Report]] recommends:
@@ -13,7 +14,7 @@ The [[../Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiv
 - [[../Stakeholders/Fungi|Fungi]]
 ## Opportunities
 
-- Combine with [[Artificial trees]], [[Artificial hollows]], and 
+- Combine with [[Canopy trees]], [[Habitat analogues]], and 
 
 ## Examples
 

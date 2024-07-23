@@ -2,6 +2,9 @@
 title: "Bush habitats"
 tags:
   - example/artificial-habitat
+  - example/artificial-hollow
+  - todo
+draft: true
 ---
 
 ![[../attachments/bush-habitat-diagram.jpg]]

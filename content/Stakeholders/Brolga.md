@@ -2,7 +2,6 @@
 title: Brolga
 tags:
   - stakeholder/bird
-  - todo/persona
 ---
 
 ![[../attachments/brolga.jpg]]
@@ -18,7 +17,7 @@ tags:
 | Diet          | Omnivore                                                                                                                                                         |
 | Distribution  | Northern and eastern mainland Australia.                                                                                                                         |
 
-[Australian Living Atlas entry](https://bie.ala.org.au/species/ALA_DR22912_792)
+[Atlas of Living Australia entry](https://bie.ala.org.au/species/ALA_DR22912_792)
 ### Habitat requirements
 
 From the [[../Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019)]]:
