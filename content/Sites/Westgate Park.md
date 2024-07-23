@@ -1,5 +1,5 @@
 ---
-title: "Westgate Park"
+title: Westgate Park
 tag:
   - site/park
 ---
@@ -9,5 +9,5 @@ tag:
 
 [Parks Victoria](https://www.parks.vic.gov.au/places-to-see/parks/westgate-park)
 
-![[../attachments/westgate-park-pink.jpg]]
+![[attachments/westgate-park-pink.jpg]]
 

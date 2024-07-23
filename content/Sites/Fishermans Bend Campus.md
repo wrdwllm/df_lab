@@ -1,5 +1,5 @@
 ---
-title: "Fishermans Bend Campus"
+title: Fishermans Bend Campus
 tags:
   - site/future
 ---
@@ -10,5 +10,5 @@ tags:
 
 [Fishermans Bend Campus](https://about.unimelb.edu.au/priorities-and-partnerships/campus-development/fishermans-bend)
 
-<a href="https://about.unimelb.edu.au/priorities-and-partnerships/campus-development/fishermans-bend">![[../attachments/fishermans-bend-campus.jpg]]</a>
+<a href="https://about.unimelb.edu.au/priorities-and-partnerships/campus-development/fishermans-bend">![[attachments/fishermans-bend-campus.jpg]]</a>
 

@@ -1,5 +1,5 @@
 ---
-title: "Eco-street lighting"
+title: Eco-street lighting
 tags:
   - example/infrastructure
   - stakeholder/nocturnal
@@ -7,7 +7,7 @@ tags:
 draft: true
 ---
 
-The [[../Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019)|Biodiversity Report]] recommends:
+The [[Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019)|Biodiversity Report]] recommends:
 
 > Long wavelength LED lights, possibly with scheduled periods of darkness in appropriate places.[^1]
 
@@ -15,18 +15,18 @@ The [[../Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiv
 
 - Opportunity
 
-- [[../Typologies/Power poles|Power poles]]
-- [[../Typologies/Trees|Trees]]
+- [[Typologies/Power poles]]
+- [[Typologies/Trees]]
 
 ## Examples
 
-![[../Examples/Intelligent lighting networks#Overview|Intelligent lighting networks]]
+![[Examples/Intelligent lighting networks#Overview|Intelligent lighting networks]]
 
 ## Stakeholders
-- [[../Stakeholders/Growling grass frog|Growling grass frog]]
-- [[../Stakeholders/Blue-tongue lizard|Blue-tongue lizard]]
-- [[../Stakeholders/Superb fairy-wren|Superb fairy-wren]]
-- [[../Stakeholders/Blue banded bee|Blue banded bee]]
+- [[Stakeholders/Growling grass frog]]
+- [[Stakeholders/Blue-tongue lizard]]
+- [[Stakeholders/Superb fairy-wren]]
+- [[Stakeholders/Blue banded bee]]
 
 ## References
 Longcore et al

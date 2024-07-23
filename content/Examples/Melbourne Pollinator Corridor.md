@@ -1,5 +1,5 @@
 ---
-title: "Melbourne Pollinator Corridor"
+title: Melbourne Pollinator Corridor
 tags:
   - stakeholder/plant
   - stakeholder/insect
@@ -7,7 +7,10 @@ tags:
 draft: true
 ---
 
-![[../attachments/melbourne-pollinator-corridor.jpg]]
+## Overview
+Project by: [The Heart Gardening Project](https://theheartgardeningproject.org.au/melbourne-pollinator-corridor)
+
+![[attachments/melbourne-pollinator-corridor.jpg]]
 
 >The MPC will focus on native bees and other native pollinating insects, the aim being 18,000 indigenous plants in 200 gardens by the end of 2024.
 
@@ -15,9 +18,12 @@ draft: true
 
 [The Heart Gardening Project](https://theheartgardeningproject.org.au/)
 
-#### Stakeholders
-- Link to stakeholders
-#### Relevant Typologies
-- Link to typologies
-#### References
-- [Streets Alive! Yarra](https://streets-alive-yarra.org/melbourne-pollinator-corridor/)
+## Description
+
+This project is directly relevant for the [[Stakeholders/Blue banded bee|Blue banded bee]].
+
+Establishing a corridor with varied low-storey native vegetation provides protected areas for the [[Stakeholders/Superb fairy-wren|Superb fairy-wren]], [[Stakeholders/Blue-tongue lizard|Blue-tongue lizard]], and [[[Stakeholders/Growling grass frog|Growling grass frog]].
+
+## Links
+
+[Streets Alive! Yarra](https://streets-alive-yarra.org/melbourne-pollinator-corridor/)

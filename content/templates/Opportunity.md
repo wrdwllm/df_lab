@@ -1,10 +1,10 @@
 ---
-title: "<% tp.file.title %>"
+title: Opportunity
 tags:
  -
 ---
 
-The [[../Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019)|Biodiversity Report]] recommends:
+The [[Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019)|Biodiversity Report]] recommends:
 
 - Recommendation.[^1]
 

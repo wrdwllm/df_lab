@@ -1,12 +1,10 @@
 ---
-title: Bee hotel
+title: Planter boxes
 tags:
-  - stakeholder/insect
-  - example/artificial-habitat
-  - example/artificial-hollow
   - todo
 draft: true
 ---
+
 ## Overview
 Project by:
 
@@ -14,7 +12,7 @@ Image
 
 > Brief description
 
-[Link]()
+[[Examples/Rainwater Remix|Link]]
 
 This project is relevant for
 ## References

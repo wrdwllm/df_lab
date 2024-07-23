@@ -5,8 +5,8 @@ tags:
 draft: false
 ---
 
-![[../attachments/example_white-mangrove.jpg|500px]]
-<small><a href="https://www.inaturalist.org/observations/17814411">An observation identified as *Avicennia marina* ssp. *australasica* by an iNaturalist user</a> growing in Stony Creek Reserve near the [[../Sites/Westgate Freeway|Westgate Freeway]] (CC-BY-NC)</small>
+![[attachments/example_white-mangrove.jpg|500px]]
+<small><a href="https://www.inaturalist.org/observations/17814411">An observation identified as *Avicennia marina* ssp. *australasica* by an iNaturalist user</a> growing in Stony Creek Reserve near the [[Sites/Westgate Freeway]] (CC-BY-NC)</small>
 ## Basic Information
 
 |               | White mangroves (*Avicennia marina*)                                                                                                                                                                                                                                                                                                 |
@@ -17,7 +17,7 @@ draft: false
 | Native status | Native to Australia                                                                                                                                                                                                                                                                                                                  |
 | Distribution  | In Australia it occurs in every mainland state and extends much farther south than other mangroves, with its southern most limit at Corner Inlet near Wilson's Promontory in Victoria. Also present along Africa's east coast, south-west, south, and south-east Asia, northern New Zealand, coastal Arabian Peninsula, and Somalia. |
 
-[Wikipedia (CC-BY-SA)](https://wikipedia.org/wiki/Avicennia%20marina)
+[[CC-BY-SA)](CC-BY-SA|Wikipedia (CC-BY-SA)]])
 
 See also: [Atlas of Living Australia entry](https://bie.ala.org.au/species/https://id.biodiversity.org.au/node/apni/2899921)
 ## Habitat requirements[^1]
@@ -29,4 +29,4 @@ See also: [Atlas of Living Australia entry](https://bie.ala.org.au/species/https
 - Boat ramps or jetties to protect from disturbance by vehicles
 - Provision of boardwalks for human access
 
-[^1]: [[../Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019)]] pg. 43
+[[Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019]]) pg. 43

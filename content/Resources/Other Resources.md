@@ -1,5 +1,5 @@
 ---
-title: "Other resources"
+title: Other resources
 tags:
   - resources
 ---
@@ -18,7 +18,7 @@ There are five principles:
 > 4. Facilitate natural processes (such as pollination)
 > 5. Facilitate positive human-nature interactions
 
-![[../attachments/bsud-process.jpg]]
+![[attachments/bsud-process.jpg]]
 
 Georgia E. Garrard et al., “Biodiversity Sensitive Urban Design,” _Conservation Letters_ 11, no. 2 (2018): e12411, [https://doi.org/10/gfsqmw](https://doi.org/10/gfsqmw).
 

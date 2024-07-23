@@ -1,37 +1,32 @@
 ---
-title: "Fishermans Bend Design Atlas"
+title: Fishermans Bend Design Atlas
 ---
+## Principles of more-than-human design
 
-## Using this site as a design resource
-1. [[Design/Design goals and actions]]: understand the general design principles for designing with and for non-human species.
-2. [[Fishermans Bend]]: understand the history, current status, and challenges of Fishermans Bend.
-3. [[Opportunities]]: read about the recommendations made by [ICON Science](https://icon-science.org/) and the design opportunities they provide
-4. [[Stakeholders]]: read about the seven target species that [ has identified as important to the area.
-5. [[Solutions]]: read about more-than-human design solutions that are relevant to Fishermans Bend.
-	- [[tags/solution/biodiversity-report]] are solutions recommended by ICON Science.
-	- Other solutions are broadly applicable to more-than-human design.
-6. Use backlinks to explore connections between [[Sites]], [[Examples]], [[Typologies]], and other [[Stakeholders]].
-## Navigating this site
-- All pages contain backlinks to pages that have linked to them so you can identify connections, e.g., [[Sites/Westgate Park]] links to [[Stakeholders/Brolga]] and [[Typologies/Power poles]].
-- All pages have [[tags]] that organise content into additional hierarchies, e.g., [[tags/stakeholder/bird]] and [[tags/solution/type/artificial-habitat]].
-- Use the Graph View to explore links to the current page visually. Click on the graph to see the entire network.
-## Contents
+More-than-human design invites designers to consider how design interventions can engage the capabilities of non-humans and improve their access to these necessities. It looks for opportunities in urban environments to provide novel habitats, improve connectivity, and promote positive human non-human interactions via design and education.
 
-[[Opportunities]] contains pages that translate that recommendations made in the Biodiversity Report to design opportunites. They unite [[Stakeholders]], [[Examples]], and [[Sites]] into narratives.
+By necessity, it engages with interdisciplinary collaborators to provide in-depth knowledge of non-human behaviours, preferences, and life histories. Understanding these patterns is analogous to how human designers build a brief in collaboration with a client. 
 
-[[Stakeholders]] contains personas for non-human species that currently reside in the area or have in the past. These personas are derived from the seven target species identified in the [[Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019)]], whose return to the area would represent a significant improvement to local biodiversity.
+It moves beyond anthropocentric conceptions of nature as providing a service for humans, e.g., improvements to air quality, mental health, and so on, to celebrate more-than-human lifeforms and grant them the autonomy that urbanisation and human activity has heavily degraded.
 
-[[Examples]] contains more-than-human design solutions that may be applicable to species, sites, and typologies found in Fishermans Bend.
+Generally, design interventions are best placed to provide shelter and habitat connectivity.
+## Using this site
 
-[[Resources/Data]] explains the kinds of data that are relevant to more-than-human clients, data platforms, and the kinds of available data.
+[[Fishermans Bend]] provides an overview of the site's Indigenous and colonial history, its current status as a site for urban renewal, and its future as a biodiverse urban ecology.
 
-[[Resources]] includes references and resources about [[Resources/More-than-human design|more-than-human design]], and relevant [[Resources/Fishermans Bend|official documents and reports]] about biodiversity, ecology, and planning in Fishermans Bend.
+[[Stakeholders]] contains profiles for the seven target species identified in the [[Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019)|Fishermans Bend]].
 
-[[Sites]] contains pages that describe locations of interest in Fishermans Bend, [[Fishermans Bend|the current State Government initiative to develop the area]], and a [[Sites/History|brief overview of its Indigenous and colonial history]].
+[[Examples]] is a growing library of more-than-human design interventions with descriptions of their relevance to these species. 
 
-[[Typologies]] is an index of common typologies found in Fishermans Bend, e.g., [[Typologies/Power poles|Power poles]] and [[Typologies/Trees|Trees]]. Pages contain some information but exist mainly to connect other pages.
+[[Resources]] contains bibliographies about [[Resources/More-than-human design|More-than-human design]], official reports about [[Resources/Fishermans Bend|Fishermans Bend]], and an overview of the [[Resources/Data|Data]] that is most relevant to non-humans.
 
+[[Design]] introduces the basic requirements of non-human species and the threats that urban environments like Fishermans Bend present to their wellbeing. It also offers some [[Design/Design ideas|Design ideas]] that extend the more conservative recommendations in the Biodiversity Report.
 
+[[Sites]] and [[Typologies]] are stubs that identify sites of interest and typologies like columns, power poles, and trees that represent opportunities for design interventions. Over time, they will be populated with detailed information.
+
+## Disclaimer
+
+This resource is under continuing development. It draws heavily on the excellent work of ICON Science, who prepared the [[Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019)]]. Its development is funded by a partnership between FB Ideas and The University of Melbourne.
 
 
 

@@ -7,7 +7,7 @@ tags:
 ## Overview
 Project by: Alexander Holland, Stanislav Roudavski, Phillip Gibbons.
 
-![[../attachments/solution-artificial-tree.png]]
+![[attachments/solution-artificial-tree.png]]
 
 > Grassy box gum woodlands once covered millions of square kilometres in southeastern Australia, but today [less than 5% remains](https://www.nespthreatenedspecies.edu.au/projects/conservation-of-box-gum-grassy-woodlands-and-the-threatened-species-within-them). The loss of [large old trees](https://theconversation.com/the-end-of-big-trees-11217) has been a crisis for the many species of birds and other animals that depend on them for habitat.
 >

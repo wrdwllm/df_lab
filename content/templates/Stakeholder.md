@@ -1,5 +1,5 @@
 ---
-title: "<% tp.file.title %>"
+title: Stakeholder
 tags:
   -
   -
@@ -16,10 +16,10 @@ Image
 | Native status |                     |
 | Diet          |                     |
 | Distribution  |                     |
-[Atlas of Living Australia entry]()
+[[templates/Stakeholder|Atlas of Living Australia entry]]
 ## Habitat requirements[^1]
 
 ## Design requirements[^1]
 
-[^1]:[[../Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019)]]
+[[Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019]])
 

@@ -4,7 +4,7 @@ tags:
   - stakeholder/bird
 ---
 
-![[../attachments/brolga.jpg]]
+![[attachments/brolga.jpg]]
 
 ### Basic information
 
@@ -20,12 +20,12 @@ tags:
 [Atlas of Living Australia entry](https://bie.ala.org.au/species/ALA_DR22912_792)
 ### Habitat requirements
 
-From the [[../Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019)]]:
+From the [[Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019]]):
 
 >- Large open wetland (saline or freshwater)
 >- Mudflats, grassy areas, low vegetation, or herbaceous vegetation
 >- Some distance (approx. 200m buffer) from human disturbance
->- Clean airspace (without [[../Typologies/Power poles|powerlines]])
+>- Clean airspace (without [[Typologies/Power poles|powerlines]])
 
 ### Design implications
 > Large ephemeral wetland area on edge of development.[^1]
@@ -34,4 +34,4 @@ From the [[../Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy B
 - Typologies
 - Solutions
 
-[^1]: [[../Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019)]]
+[[Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019]])

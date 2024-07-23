@@ -1,5 +1,5 @@
 ---
-title: "Intelligent lighting network"
+title: Intelligent lighting networks
 tags:
   - example/infrastructue
   - stakeholder/nocturnal
@@ -7,10 +7,12 @@ tags:
 ## Overview
 Project by: Tony Yu and Stanislav Roudavski.
 
-![[../attachments/example_intelligent-lighting-networks.png|640]]
+![[attachments/example_intelligent-lighting-networks.png|640]]
 
 > This project addresses detrimental effects of the environmental light pollution by developing intelligent lighting networks that support nonhuman as well as human needs. Artificial sources of light at night are increasing by 6% every year. Existing design trends do not acknowledge the needs of nonhumans or provide systems that can flexibly adapt to their behaviours.[^1]
 
+## Relevance
+- Can support [[Stakeholders/Growling grass frog|Growling grass frog]], [[Stakeholders/Blue banded bee|Blue banded bee]], [[Stakeholders/Superb fairy-wren|Superb fairy-wren]], and [[Stakeholders/Blue-tongue lizard|Blue-tongue lizard]] by scheduling periods of darkness in appropriate places
 ## Description
 
 >Our results demonstrate that data-driven simulations, immersive interactive visualisations, and persistent multi-modal input systems can extend design imagination. In contrast to nonresponsive and anthropocentric lighting systems, the proposed intelligent lighting network uses smart luminaires and mobile-device controls to adapt to the uncertain dynamics of urban ecosystems. This research contributes to knowledge about urban ecologies and develops novel options for urban rewilding. It does so by highlighting the damaging effects on light and proposing an innovative approach to lighting design. This approach broadens the scope of possible implementations, demonstrating their plausibility, and formulating concrete research questions about ecological, social, aesthetic, economic and risk-related aspects of interspecies lighting design.

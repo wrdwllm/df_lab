@@ -1,5 +1,5 @@
 ---
-title: "Crimson rosella"
+title: Crimson rosella
 tags:
   - stakeholder/bird
 draft: true

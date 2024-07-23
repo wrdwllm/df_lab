@@ -1,5 +1,5 @@
 ---
-title: "Artificial rocks"
+title: Artificial rocks
 tags:
   - todo
   - example/artificial-habitat

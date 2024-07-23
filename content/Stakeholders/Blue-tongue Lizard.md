@@ -6,7 +6,7 @@ tags:
 draft: false
 ---
 
-![[../attachments/stakeholder_blue-tongue-lizard.jpg|500px]]
+![[attachments/stakeholder_blue-tongue-lizard.jpg|500px]]
 ## Basic Information
 
 |               | Blue-tongue lizard (*Tiliqua scinoides*)                                                                                                                                                                                      |
@@ -19,7 +19,9 @@ draft: false
 | Diet          | Omnivore                                                                                                                                                                                                                      |
 | Distribution  | Central and eastern mainland Australia.                                                                                                                                                                                       |
 | Behaviour     | Diurnal                                                                                                                                                                                                                       |
+
 [Atlas of Living Australia entry](https://bie.ala.org.au/species/https://biodiversity.org.au/afd/taxa/f02242e8-534c-4cba-aac7-aeb32130d59a)
+
 ## Habitat requirements[^1]
 
 >- Tussocky grasses
@@ -32,6 +34,9 @@ draft: false
 >- Low-storey (<50cm) vegetation 
 >- Rocks or logs nearby for shelter and nesting
 >- Road underpasses and/or low traffic roads
+## Further Reading
 
-[^1]:[[../Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019)]]
+Souter, N.J., Bull, C.M., Lethbridge, M.R., and Hutchinson, M.N. 2007. "Habitat Requirements of the Endangered Pygmy Bluetongue Lizard, *Tiliqua adelaidensis*." *Biological Conservation* 135: 33-45.
+
+[^1]: [[Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019)]]
 

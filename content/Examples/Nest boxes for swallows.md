@@ -1,5 +1,5 @@
 ---
-title: "Nest Boxes for Swallows"
+title: Nest boxes for swallows
 tags:
   - todo
   - example/artificial-hollow
@@ -11,7 +11,7 @@ draft: true
 
 ## Description
 
-![[../attachments/nest-boxes-for-swallows.png]]
+![[attachments/nest-boxes-for-swallows.png]]
 
 Speculative design by Nina Nervegna & Felix Garner-Davis^[1]
 
@@ -19,6 +19,6 @@ Speculative design by Nina Nervegna & Felix Garner-Davis^[1]
 ## Stakeholders
 - 
 ## Relevant Typologies
-- [[../Typologies/Power poles|Power poles]]
+- [[Typologies/Power poles]]
 
 [^1]: Test

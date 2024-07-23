@@ -1,20 +1,20 @@
 ---
-title: "Green roofs"
+title: Green walls and roofs
 tags:
  -
 draft: true
 ---
 
-The [[../Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019)|Biodiversity Report]] recommends:
+The [[Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019)|Biodiversity Report]] recommends:
 
 > Green walls and roofs or roof-top parks on all buildings *\[ ... with ...\]* significant soil layer and water retention to allow dense vegetation .[^1]
 
 ## Stakeholders
-- [[../Stakeholders/Blue banded bee|Blue banded bee]]
-- [[../Stakeholders/Fungi|Fungi]]
+- [[Stakeholders/Blue banded bee]]
+- [[Stakeholders/Fungi]]
 ## Opportunities
 
-- Combine with [[Canopy trees]], [[Habitat analogues]], and 
+- Combine with [[Opportunities/Canopy trees]], [[Opportunities/Habitat analogues]], and 
 
 ## Examples
 

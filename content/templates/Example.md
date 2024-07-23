@@ -1,5 +1,5 @@
 ---
-title: "<% tp.file.title %>"
+title: Example
 tags:
   -
   -
@@ -11,7 +11,7 @@ Image
 
 > Brief description
 
-[Link]()
+[[templates/Example|Link]]
 
 ## Description
 

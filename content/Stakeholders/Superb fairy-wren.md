@@ -5,7 +5,7 @@ tags:
   - stakeholder/bird
 ---
 
-![[../attachments/superb-fairy-wren.jpg|500px]]
+![[attachments/superb-fairy-wren.jpg|500px]]
 ## Basic Information
 
 |               | Superb Fairy-Wren (*Malurus cyaeneus*)                                                                                                                                                                              |
@@ -25,12 +25,12 @@ tags:
 >- Safe spaces for foraging on the ground
 >- Habitat connected by corridors
 
-> Research has found them to be absent in urban environments with few shrubs in total or in sites dominated by exotic shrub species.[^2]
+> Research has found them to be absent in urban environments with few shrubs in total or in sites dominated by exotic shrub species.[^1]
 ## Design requirements[^1]
 
 >- Mid-storey shrubs and ground cover (<200cm high)
->- Connections with [[../Sites/Westgate Park|Westgate Park]], along roads
+>- Connections with [[Sites/Westgate Park]], along roads
 >- Place habitat to facilitate human encounters
 
-[^1]: [[../Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019)]] pg. 42
-[^2]: Ibid, pg. 14.
+[[Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019]]) pg. 42
+[^1]: Ibid, pg. 14.

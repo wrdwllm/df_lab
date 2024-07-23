@@ -1,5 +1,5 @@
 ---
-title: "Green bridges"
+title: Green bridges
 tags:
   - example/infrastructure
   - example/biodiversity-report

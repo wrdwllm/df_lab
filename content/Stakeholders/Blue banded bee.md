@@ -3,7 +3,7 @@ title: Blue banded bee
 tags:
   - stakeholder/insect
 ---
-![[../attachments/stakeholder_blue-banded-bee.jpg]]
+![[attachments/stakeholder_blue-banded-bee.jpg]]
 <small><a href="https://biocache.ala.org.au/occurrences/d875b3d7-8ba1-4e65-a09a-eeb4e7b0693e">Rights holder: Tina Hanneman</a></small>
 ## Basic Information
 
@@ -28,4 +28,4 @@ tags:
 > Open garden beds planted with flowering plants (50-100cm height).[^2]
 
 [^1]: sp. is short for *species proxima* meaning "the nearest species"
-[^2]: [[../Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019)]] pg. 42
+[[Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019]]) pg. 42

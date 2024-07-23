@@ -5,7 +5,7 @@ tags:
 draft: false
 ---
 
-![[../attachments/stakeholder_fungi-turkey-tail.jpg|500px]]
+![[attachments/stakeholder_fungi-turkey-tail.jpg|500px]]
 <a href="https://www.inaturalist.org/observations/157395034"><small>A fungi identified as Turkey-Tail (*Trametes veriscolor*) by an iNaturalist user growing near Rocklea Dr, Port Melbourne (CC-BY-NC)</small></a>
 ## Basic Information
 
@@ -17,7 +17,7 @@ Despite their small scale, they perform a range of ecosystem services. Generally
 
 They can be observed growing on building structures made from stone or other materials with slightly acidic pH values. Usually, growths are considered a sign of degradation and decay and removed.
 
-[This map](https://www.inaturalist.org/observations?lat=-37.82735045518448&lng=144.91121960378706&place_id=any&radius=1.3973583871383106&subview=map&taxon_id=47170) shows observations made using iNaturalist in an area encompassing Fishermans Bend that includes 98 species of fungi. Most are in [[../Sites/Westgate Park|Westgate Park]], but there are others along the [[../Sites/Westgate Freeway|Westgate Freeway]] and some of the industrial parks in the area.
+[This map](https://www.inaturalist.org/observations?lat=-37.82735045518448&lng=144.91121960378706&place_id=any&radius=1.3973583871383106&subview=map&taxon_id=47170) shows observations made using iNaturalist in an area encompassing Fishermans Bend that includes 98 species of fungi. Most are in [[Sites/Westgate Park]], but there are others along the [[Sites/Westgate Freeway]] and some of the industrial parks in the area.
 ## Habitat requirements[^3]
 
 >- Damp soil
@@ -37,4 +37,4 @@ Pouliot, Alison. _The Allure of Fungi_. Clayton South, AU: CSIRO, 2018.
 
 [^1]: [Atlas of Living Australia entry for the kingdom *fungi*](https://bie.ala.org.au/species/https://id.biodiversity.org.au/taxon/fungi/60119249)
 [^2]: Andrew Adamatzky, “Language of Fungi Derived from Their Electrical Spiking Activity,” Royal Society Open Science 9, no. 4 (2022): 211926, https://doi.org/10/gptxb9.
-[^3]:[[../Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019)]] pg. 43
+[[Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019]]) pg. 43

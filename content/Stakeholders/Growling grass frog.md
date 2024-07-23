@@ -4,7 +4,7 @@ tags:
   - stakeholder/amphibian
 ---
 
-![[../attachments/growling-grass-frog.jpg]]
+![[attachments/growling-grass-frog.jpg]]
 ## Basic Information
 
 |                   | Growling grass frog (*Litoria raniformis*)                                                                                                                                                                                                                      |
@@ -22,7 +22,7 @@ tags:
 
 > - Ponds or creeks with slow-flowing fresh water
 > - Grassy/weedy/reedy edges and vegetation patches within water
-> - Safe connection to [[../Sites/Westgate Park|Westgate Park]]
+> - Safe connection to [[Sites/Westgate Park]]
 > - Sunny areas within the waterbody
 ## Design requirements[^2]
 
@@ -32,5 +32,14 @@ tags:
 
 >The probability of the species persisting on sites and recolonising vacant wetlands is strongly positively related to connectivity.
 
+## Further reading
+
+Aresco, M.J. 2005. "Mitigation Measures to Reduce Highway Mortality of Turtles and Other Herpetofauna at a North Florida Lake." *Journal of Wildlife Management* 69: 689-699.
+
+Heard, G.W., Scroggie, M., and Malone, B. 2012. "Classical Metapopulation Theory as a Useful Paradigm for the Conservation of an Endangered Amphibian." *Biological Conservation* 148: 156-166.
+
+Hale, J.M., Heard, G.W., Smith, K.L., Parris, K.M., Austin, J.J., Kearney, M., and Melville, J. 2013. "Structure and Fragmentation of Growling Grass Frog Metapopulations." *Conservation Genetics* 14: 313-322.
+
+
 [^1]: Alternative vernacular name
-[^2]: [[../Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019)]]
+[^2]: [[Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019]]
