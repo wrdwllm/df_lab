@@ -33,7 +33,7 @@ Generally, design interventions are best placed to provide shelter and habitat c
 
 [[Design]] introduces the basic requirements of non-human species and the threats that urban environments like Fishermans Bend present to their wellbeing. It also offers some [[Design/Design ideas|Design ideas]] that extend the more conservative recommendations in the Biodiversity Report.
 
-[[Sites]] and [[Typologies]] are stubs that identify sites of interest and typologies like columns, power poles, and trees that represent opportunities for design interventions. Over time, they will be populated with detailed information.
+%% [[Sites]] and %%[[Typologies]] are stubs that identify sites of interest and typologies like columns, power poles, and trees that represent opportunities for design interventions. Over time, they will be populated with detailed information.
 
 ## Disclaimer
 

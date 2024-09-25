@@ -2,6 +2,7 @@
 title: Fishermans Bend Campus
 tags:
   - site/future
+draft: true
 ---
 
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=144.91150259971621%2C-37.827565132003166%2C144.92395877838138%2C-37.818454719788654&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=17/-37.82301/144.91773">View Larger Map</a></small>
