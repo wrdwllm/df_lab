@@ -3,6 +3,14 @@ title: Design principles
 tags:
 draft: false
 ---
+More-than-human design invites designers to consider how design interventions can engage the capabilities of non-humans and improve their access to these necessities. It looks for opportunities in urban environments to provide novel habitats, improve connectivity, and promote positive human non-human interactions via design and education.
+
+By necessity, it engages with interdisciplinary collaborators to provide in-depth knowledge of non-human behaviours, preferences, and life histories. Understanding these patterns is analogous to how human designers build a brief in collaboration with a client. 
+
+It moves beyond anthropocentric conceptions of nature as providing a service for humans, e.g., improvements to air quality, mental health, and so on, to celebrate more-than-human lifeforms and grant them the autonomy that urbanisation and human activity has heavily degraded.
+
+Generally, design interventions are best placed to provide shelter and habitat connectivity.
+
 ## Non-human requirements
 
 Humans and the majority of non-human animals invariably need "consumable resources such as food and water, shelter for refuge or nesting, and safe ways to move between things." 

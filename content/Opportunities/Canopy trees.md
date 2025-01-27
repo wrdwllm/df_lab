@@ -12,12 +12,12 @@ The [[Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodivers
 While the authors do not explicitly recommend artificial trees, they could provide habitat analogues to supplement traditional tree and understorey planting.
 ## Opportunities
 
-Consider in tandem with [[Design/Design principles|design considerations]] and needs of individual stakeholders.
-- Provide new hollows in combination with [[#Artificial hollows]] for [[tags/stakeholder/bird|birds]] like [[Examples/Nest boxes for swallows]] or [[Examples/Prosthetic nests for the Powerful Owl]].
+Consider in tandem with [[../More-than-Human Design/Design principles|design considerations]] and needs of individual stakeholders.
+- Provide new hollows in combination with [[#Artificial hollows]] for [[tags/stakeholder/bird|birds]] like [[../Precedents/Nest boxes for swallows]] or [[../Precedents/Prosthetic nests for the Powerful Owl]].
 - Designs for artificial trees could integrate [[Opportunities/Eco-street lighting]].
 - Can be adapted to augment [[Typologies/Power poles|power poles]] and [[Typologies/Columns|columns]]
 - Possible habitat analogue for [[Typologies/Trees|trees]] but cannot replace canopy coverage.
-- Combine with [[Examples/Hume Highway wildlife crossings]], existing types ([[Typologies/Power poles|power poles]], [[Typologies/Buildings|buildings]], [[Typologies/Trees|trees]]), and [[Opportunities/Habitat analogues]] to provide connectivity above traffic corridors.
+- Combine with [[../Precedents/Hume Highway wildlife crossings]], existing types ([[Typologies/Power poles|power poles]], [[Typologies/Buildings|buildings]], [[Typologies/Trees|trees]]), and [[Opportunities/Habitat analogues]] to provide connectivity above traffic corridors.
 - Provide similar ecosystem services as [[Stakeholders/White mangroves]]
 
 Artificial trees alone cannot provide the same canopy coverage and habitat complexity as natural trees. The report also recommends that:
@@ -26,7 +26,7 @@ Artificial trees alone cannot provide the same canopy coverage and habitat compl
 ## Examples
 
 This example uses data-driven analysis of the perching preferences of birds to re-produce the complex structures of large old trees using perch analogues attached to a central pylon.
-![[Examples/Artificial trees#Overview|Artificial trees]]
+![[../Precedents/Artificial trees#Overview|Artificial trees]]
 ## Stakeholders
 Street trees
 - [[Stakeholders/Superb fairy-wren]]

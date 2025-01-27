@@ -21,7 +21,7 @@ The report recommends these specifications:
 
 - Integrate with [[Opportunities/Green bridges]] and [[Opportunities/Eco-street lighting]]
 - Connect [[tags/site/park|parks]] and green spaces via separate or protected passages
-- Use [[Examples/Hume Highway wildlife crossings]] to establish connectivity between [[Typologies/Trees|trees]], [[Typologies/Buildings|buildings]] with [[Opportunities/Green walls and roofs]] and [[Green walls|green walls]]
+- Use [[../Precedents/Hume Highway wildlife crossings]] to establish connectivity between [[Typologies/Trees|trees]], [[Typologies/Buildings|buildings]] with [[Opportunities/Green walls and roofs]] and [[Green walls|green walls]]
 - Integrate [[../Examples/Bio-receptive surfaces|bio-receptive surfaces]] to accommodate growth of [[Stakeholders/Fungi|fungi]] and plants
 ## Examples
 
@@ -31,7 +31,7 @@ Traditional animal underpasses have been developed by ecologists and implemented
 
 While not an underpass, a parallel concept is wild-life bridges that run over traffic corridors. These are not appropriate for ground-dwelling stakeholders, but they could benefit non-priority species like possums.
 
-![[Examples/Hume Highway wildlife crossings#Overview|Wild-life bridges]]
+![[../Precedents/Hume Highway wildlife crossings#Overview|Wild-life bridges]]
 
 ## Stakeholders
 

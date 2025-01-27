@@ -12,7 +12,7 @@ Image
 
 > Brief description
 
-[[Examples/Rainwater Remix|Link]]
+[[Rainwater Remix|Link]]
 
 This project is relevant for
 ## References

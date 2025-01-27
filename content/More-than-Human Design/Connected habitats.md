@@ -31,13 +31,13 @@ tags:
 			- All species
 	- Opportunities for interaction with nature
 - Other [[tags/example/connectivity|connectivity solutions]] could include
-	- [[Examples/Hume Highway wildlife crossings|Hume Highway wildlife crossings]]
+	- [[../Precedents/Hume Highway wildlife crossings|Hume Highway wildlife crossings]]
 		- Provides safe passage over traffic corridors for possums
-	- [[Examples/Melbourne Pollinator Corridor|Melbourne Pollinator Corridor]]
-	- [[Examples/Intelligent lighting networks|Intelligent lighting networks]]
+	- [[../Precedents/Melbourne Pollinator Corridor|Melbourne Pollinator Corridor]]
+	- [[../Precedents/Intelligent lighting networks|Intelligent lighting networks]]
 ## Examples
 
-- [[Examples/Melbourne Pollinator Corridor|Melbourne Pollinator Corridor]]
-- [[Examples/Hume Highway wildlife crossings|Hume Highway wildlife crossings]]
+- [[../Precedents/Melbourne Pollinator Corridor|Melbourne Pollinator Corridor]]
+- [[../Precedents/Hume Highway wildlife crossings|Hume Highway wildlife crossings]]
 - [[Opportunities/Animal underpasses|Animal underpasses]]
-- [[Examples/Intelligent lighting networks|Intelligent lighting networks]]
+- [[../Precedents/Intelligent lighting networks|Intelligent lighting networks]]

@@ -20,7 +20,7 @@ The [[Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodivers
 
 ## Examples
 
-![[Examples/Intelligent lighting networks#Overview|Intelligent lighting networks]]
+![[../Precedents/Intelligent lighting networks#Overview|Intelligent lighting networks]]
 
 ## Stakeholders
 - [[Stakeholders/Growling grass frog]]
