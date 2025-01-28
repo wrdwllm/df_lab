@@ -32,9 +32,13 @@ In Week 14, students presented their work to a panel of guests from the MSD, ADD
 
 ## Future
 
+==Michael and Tony: Check information about prototype==
+
 ==After the end of semester, Michael Park, Tony Yu, and a group of students developed a full-scale prototype for an artificial tree using the methods developed for both subjects. The prototype is currently installed in…==
 
 ## Credits
+
+==Michael, Tony, Rochus: Who should be credited?==
 
 ### DF_Lab
 
@@ -44,7 +48,11 @@ In Week 14, students presented their work to a panel of guests from the MSD, ADD
 
 ==Student names==
 
-### Teaching staff
+### Collaborators
 
 ==Names==
+
+MSD: A/Prof Rochus Hinkel, Michael Park, Tony Yu, William Ward, Prof Dan Hill, Dr Stanislav Roudavski, Prof Alex Felson...
+
+FB IDEAs:
 
