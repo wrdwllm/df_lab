@@ -4,6 +4,8 @@ tags:
   - 
 ---
 
+==Images here==
+
 SI_Lab is an elective for Master of Architecture students led by Tony Yu. The subject explores novel uses of scanning, sensing, and visioning technologies such as LIDAR, VR/AR, and Arduino devices. Students design speculative frameworks that incorporate these cutting-edge methods.
 
 ==Tony: Past scenarios?==
@@ -15,8 +17,6 @@ Using species observation data from official and citizen science sources, the Vi
 Specifically, their framework considered noise levels, shading and orientation, and separation from busy street frontages to both identify candidate sites and generate forms.
 
 Students also produced an immersive VR experience that portrayed the site from the perspective of a bird, with colours loosely approximating typical avian colour vision.
-
-==Images here==
 
 ## Subject outcomes
 
