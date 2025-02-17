@@ -8,9 +8,13 @@ tags:
 
 Students enrolled in the Melbourne School of Design’s Master of Architecture program developed designs for a site in Fisherman’s Bend, with the goal of improving the lives of non-human stakeholders in urban environments. The subjects were a collaboration between the Melbourne School of Design (MSD) and the ADD+F Research Hub, with funding from the Creative Futures Fund and FB IDEAs.
 
-The students developed speculative designs for novel habitats and data collection schemes. Students in DF_LAB used novel digital fabrication methods to reconstitute fallen tree branches into artificial habitats for local birds like the superb fairy-wren. For SI_LAB, the students investigated how sensor data could inform design responses for non-human stakeholders living in urban sites.
+The students developed speculative designs for novel habitats and data collection schemes. 
 
-At key points during the semester, the groups met to share their work and refine these methods.
+Students in DF_Lab used digital design, 3D scanning, and robotic fabrication to construct a larger structure made from reclaimed tree branches that serves as a habitat for solitary native bees.
+
+SI_Lab students used digital design and data collection, including sound, sunlight, and temperature data, to develop a methodology for identifying locations in urban environments where more-than-humans can thrive. They used the [[Superb fairy-wren]], a native bird found in Fishermans Bend, as a test case.
+
+At key points during the semester, the groups met to investigate whether their developing methodologies could be mutually supportive.
 
 ## Design intention
 
@@ -38,21 +42,18 @@ In Week 14, students presented their work to a panel of guests from the MSD, ADD
 
 ## Credits
 
-==Michael, Tony, Rochus: Who should be credited?==
-
 ### DF_Lab
 
-==Student names==
-
+Stella Gorman
+Matthew Park
+Andrew Wilson
 ### SI_Lab
 
-==Student names==
+Cuihu Deng
+Douglas Thinwa
+Hengjia Hu
+Taoyuan Zhu
+### MSD
 
-### Collaborators
-
-==Names==
-
-MSD: A/Prof Rochus Hinkel, Michael Park, Tony Yu, William Ward, Prof Dan Hill, Dr Stanislav Roudavski, Prof Alex Felson...
-
-FB IDEAs:
+A/Prof Rochus Hinkel, Michael Park, Tony Yu, William Ward, Prof Dan Hill, Dr Stanislav Roudavski, Prof Alex Felson
 

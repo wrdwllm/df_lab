@@ -18,4 +18,7 @@ This semester, the students used these methods to develop a prototype for an art
 
 ## Credits
 
-==Michael: Student names?==
+### Students
+Stella Gorman
+Matthew Park
+Andrew Wilson
