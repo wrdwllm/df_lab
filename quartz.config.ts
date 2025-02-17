@@ -18,6 +18,7 @@ const config: QuartzConfig = {
     baseUrl: "wrdwllm.github.io/df_lab",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
+    generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
