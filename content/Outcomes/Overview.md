@@ -16,8 +16,7 @@ SI_Lab students used digital design and data collection, including sound, sunlig
 At key points during the semester, the groups met to investigate whether their developing methodologies could be mutually supportive.
 
 ## Design intention
-
-![[attachments/df_lab_subject_outcome_2.jpg]]
+![[attachments/df_lab_subject_outcome_01_cropped.png]]
 
 The proposals aim to provide refuge for non-humans inhabiting urban environments, which generally provide few habitat opportunities. In the case of Fishermans’ Bend, industrial zoning, poor habitat connectivity, limited green space, heavy traffic, and pollution present complex challenges to non-human life.
 

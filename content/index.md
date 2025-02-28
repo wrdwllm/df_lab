@@ -1,7 +1,7 @@
 ---
 title: More-Than-Human Urban Design
 ---
-
+![[attachments/subject_outcomes_scan_loop.webp]]
 The project’s aim is to create a network of prototype ‘more-than-human habitats’ that will demonstrate how to foreground biodiversity repair and regeneration at Fishermans Bend. Developing a holistic approach to urban design and development, that builds networks and corridors of biodiversity habitats, traced across the post-industrial urban terrain of Fishermans Bend. Each prototype habitats will help to articulate new forms of architecture and urban design which are beyond our existing human-centred approaches.
 
 A design-based research project by:
@@ -10,7 +10,7 @@ Melbourne School of Design ([MSD](https://msd.unimelb.edu.au/)) at The Universit
 
 In collaboration with the Advanced Digital Design and Fabrication ([ADD+F](https://msd.unimelb.edu.au/addf)) Research Hub 
 
-Funded by Creative Futures Funds and through [FB IDEAs](https://www.fbideas.org/), supported by the Victorian State Government 
+Funded by Creative Futures Funds and through [FB IDEAs](https://www.fbideas.org/), supported by the Victorian State Government
 
 ## Using this site
 
