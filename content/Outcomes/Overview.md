@@ -3,7 +3,7 @@ title: Overview
 tags:
   - 
 ---
-![[subject_outcomes_scan_loop.webp]]
+![[attachments/subject_outcomes_scan_loop.webp]]
 
 Students enrolled in the Melbourne School of Design’s Master of Architecture program developed designs for a site in Fisherman’s Bend, with the goal of improving the lives of non-human stakeholders in urban environments. The subjects were a collaboration between the Melbourne School of Design (MSD) and the ADD+F Research Hub, with funding from the Creative Futures Fund and FB IDEAs.
 
@@ -17,7 +17,7 @@ At key points during the semester, the groups met to investigate whether their d
 
 ## Design intention
 
-![[df_lab_subject_outcome_2.jpg]]
+![[attachments/df_lab_subject_outcome_2.jpg]]
 
 The proposals aim to provide refuge for non-humans inhabiting urban environments, which generally provide few habitat opportunities. In the case of Fishermans’ Bend, industrial zoning, poor habitat connectivity, limited green space, heavy traffic, and pollution present complex challenges to non-human life.
 
@@ -37,16 +37,9 @@ In Week 14, students presented their work to a panel of guests from the MSD, ADD
 ## Credits
 
 ### DF_Lab
-
-Stella Gorman
-Matthew Park
-Andrew Wilson
+Stella Gorman, Matthew Park, Andrew Wilson
 ### SI_Lab
-
-Cuihu Deng
-Douglas Thinwa
-Hengjia Hu
-Taoyuan Zhu
+Cuihu Deng, Douglas Thinwa, Hengjia Hu, Taoyuan Zhu
 ### MSD
 
 A/Prof Rochus Hinkel, Michael Park, Tony Yu, William Ward, Prof Dan Hill, Dr Stanislav Roudavski, Prof Alex Felson
