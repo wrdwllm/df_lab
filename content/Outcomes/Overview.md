@@ -3,8 +3,7 @@ title: Overview
 tags:
   - 
 ---
-
-==Images here==
+![[subject_outcomes_scan_loop.webp]]
 
 Students enrolled in the Melbourne School of Design’s Master of Architecture program developed designs for a site in Fisherman’s Bend, with the goal of improving the lives of non-human stakeholders in urban environments. The subjects were a collaboration between the Melbourne School of Design (MSD) and the ADD+F Research Hub, with funding from the Creative Futures Fund and FB IDEAs.
 
@@ -17,6 +16,8 @@ SI_Lab students used digital design and data collection, including sound, sunlig
 At key points during the semester, the groups met to investigate whether their developing methodologies could be mutually supportive.
 
 ## Design intention
+
+![[df_lab_subject_outcome_2.jpg]]
 
 The proposals aim to provide refuge for non-humans inhabiting urban environments, which generally provide few habitat opportunities. In the case of Fishermans’ Bend, industrial zoning, poor habitat connectivity, limited green space, heavy traffic, and pollution present complex challenges to non-human life.
 
@@ -33,13 +34,6 @@ The field of design that focuses on these habitats is relatively young and few e
 [[SI_Lab]] investigated ways of collecting and interpreting data that could support the design, siting, and monitoring of non-human habitats in Fishermans Bend and other challenging urban sites.
 
 In Week 14, students presented their work to a panel of guests from the MSD, ADD+F and FB IDEAs.
-
-## Future
-
-==Michael and Tony: Check information about prototype==
-
-==After the end of semester, Michael Park, Tony Yu, and a group of students developed a full-scale prototype for an artificial tree using the methods developed for both subjects. The prototype is currently installed in…==
-
 ## Credits
 
 ### DF_Lab

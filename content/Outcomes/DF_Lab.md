@@ -3,8 +3,7 @@ title: DF_Lab
 tags:
   - 
 ---
-
-==Images here==
+![[df_lab_subject_outcome_1.jpg]]
 
 DF_Lab is an elective for Master of Architecture students led by Michael Park. Since 2023, student cohorts have developed and refined a novel fabrication technique that uses robotic arms to mill joints in fallen tree branches collected by University arborists.
 
@@ -14,8 +13,8 @@ This semester, the students used these methods to develop a prototype for an art
 
 ## Subject outcomes
 
-==Images here==
-
+![[df_lab_subject_outcome_2.jpg]]
+![[df_lab_subject_outcome_03.jpg]]
 ## Credits
 
 ### Students
