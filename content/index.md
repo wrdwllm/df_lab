@@ -16,7 +16,7 @@ Funded by Creative Futures Funds and through [FB IDEAs](https://www.fbideas.org/
 
 [[Outcomes]] showcases the work of DF_Lab and SI_Lab students, which used this website as a resource. The [[Outcomes/Overview|Overview]] page describes the collaboration between the subjects.
 
-[[Fishermans Bend]] provides an overview of the site's Indigenous and colonial history, its current status as a site for urban renewal, and its future as a biodiverse urban ecology.
+[[Sites/Fishermans Bend]] provides an overview of the site's Indigenous and colonial history, its current status as a site for urban renewal, and its future as a biodiverse urban ecology.
 
 [[Stakeholders]] contains profiles for the seven target species identified in the [[Resources/Fishermans Bend#Fishermans Bend Urban Ecology Strategy Biodiversity Report (2019)|Fishermans Bend]].
 

@@ -44,7 +44,39 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.Explorer(),
+    Component.Explorer({
+      sortFn: (a, b) => {
+        const nameOrderMap: Record<string, number> = {
+          "Outcomes": 100,
+          "Overview": 101,
+          "DF_Lab": 102,
+          "SI_Lab": 103,
+          "Stakeholders": 200,
+          "Sites": 300,
+          "Precedents": 400,
+          "Opportunities": 500,
+          "More-than-Human Design": 600,
+          "Typologies": 700,
+        }
+
+        let orderA = 0
+        let orderB = 0
+
+        if (a.file && a.file.slug) {
+          orderA = nameOrderMap[a.file.slug] || 0
+        } else if (a.name) {
+          orderA = nameOrderMap[a.name] || 0
+        }
+
+        if (b.file && b.file.slug) {
+          orderB = nameOrderMap[b.file.slug] || 0
+        } else if (b.name) {
+          orderB = nameOrderMap[b.name] || 0
+        }
+
+        return orderA - orderB
+      },
+    })
   ],
   right: [],
 }
