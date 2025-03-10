@@ -1,7 +1,7 @@
 ---
 title: More-Than-Human Urban Design
 ---
-![[attachments/subject_outcomes_scan_loop.webp]]
+![[attachments/subject_outcomes_scan_loop.gif]]
 The project’s aim is to create a network of prototype ‘more-than-human habitats’ that will demonstrate how to foreground biodiversity repair and regeneration at Fishermans Bend. Developing a holistic approach to urban design and development, that builds networks and corridors of biodiversity habitats, traced across the post-industrial urban terrain of Fishermans Bend. Each prototype habitats will help to articulate new forms of architecture and urban design which are beyond our existing human-centred approaches.
 
 A design-based research project by:
